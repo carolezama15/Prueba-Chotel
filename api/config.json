@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chostel-289de",
+  "private_key_id": "4af54bce6880a19dd3a2693339db40911299a03b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOqMqEFCCc/Jw6\n6fM1H38m4cxkcwsMRIaUus2tyLt1cb+6A6WPsjP6wqz/iecR/pS58NULvXP7Xgao\nVqOLJUyCA5+3jeSydtaxNoazeMpC4OUnWajmMLxQszRVuurOOq4elelfcjxNQ2uh\nMZ2JP8H4ORbh71Jy1zMzE/Sd0G+PQ/xlpSP/E6YtN+RLVK1c54p+stAoqZWOoAcw\nJk6Nm3N81TAH2r0mFunUVr/ufmiaR95hYVFlOsU77T+bqCBKEeAVgAbjWTZTOhco\nBuv+QnSjAdmICZii00TBOWdi+lPCJeNq4D9hzrryylm6uj0xvL4wKHvKMRG4yS/o\n31AsEPUfAgMBAAECggEAZEj+tad6yBPB0MkU77OQJZMvd5NoShS65lPcWbfuWCjR\n7He2kQveM5LjFsKZ8l6DV9Qp3p+aN+JCAtDAXlbEUNdnW1CtKXmH58lZBqDYLioq\nqbTVxJbj25mLDQs+xMMvGcKP1HSAFNJh2YBVPXRGMamqlAtqDDaoLuJBM5AhgviQ\nbN5hiQPR/jr8P71+JC9bMzWVV8OqmeEyiR1Z2GLXV5QGMxLKZGRNjVtp8SumKYE2\nayxoXftLnY24OFEdHB1ddjaPS8+KRuh9pyU7R9494KXq9V7aq5EKeWVsBRsjiCZd\nAh1bDGOUntkEWzQy1IalY/qLhVkQXWuu0tb6fiuOOQKBgQDyDDZvWpVLCqGl41is\nxdf1cf+YCEyGc+xLJeqACgd/8s8HmcYPmiHO4L3oOj4sdrdudufBUdnk42WSdA73\n/I57jmpBkwdgZR8MbiAhDecWk8pVwxm5ypdkfBpu09sN/0Ck7PnyJN5x2Pr/vzXL\nJ1EOZQcr5V7Mc1hJ43Hub/zFVQKBgQDakl5Wb3fiU7SYQ/0lc5tLlbaaiZhjqyUZ\n4yE6NgoCHx993gB6U2+YhwAyTBGeBTCyRfm9U8Dg6yZiG78jzR54hKNHID2x6awV\nEqH5QVbaieTK6K/DdOmqZhvgZepLElp+HqNkeqpkJNUtf7XzMKLXyWRWMo8r+9PT\nWZ6BaqIQowKBgBSpCjRzDO881xNr1nPY51giBOkbPDz1xCOd9ug68uzu8tD5RTir\ntVsNP+iEoC33bCzXpWyQ6gJpjo/zrBtqyVauj09Nl4GY4A+VjtSDdUguEUVEw/th\n2Y5QMYloN/h34zKwr50FnJ8nIDWYQqU2k+qgoP4UNAVLiyuzaFQr5u2JAoGBAJDS\nqu9arHSqQd8iLXnDQAK1EGkVAoQHwm2EsV+AruD4/kTH9EkZP7gwu1CYVpP9nGaD\nNxbbh9F//c7D08JFBwuT1xwpoLdhvUO5NNmTEZl8BLztsIgxzyG4xn/JB5T2dD9c\nzaamIIB6Z0XeeRDKCRwxtOnoVjUuhwxjNUNLBFdBAoGAPbsp3XziTkcPXoJEli6t\naA1nOhcM3zo/mvqxdUUnab/+Ox8x84IDOMO44uHSxtDxvg1hEH8eHZ0qcton3o6f\nu7bAduD5+cH+AsL078/o4DxKiJjdPAkBPPa00gvEJzlJZZq4PG6NISeBMucqwKiC\nrrhgcOEiwGyxt3i07SsYPeg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-l674a@chostel-289de.iam.gserviceaccount.com",
+  "client_id": "116351077996892380403",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-l674a%40chostel-289de.iam.gserviceaccount.com"
+}
